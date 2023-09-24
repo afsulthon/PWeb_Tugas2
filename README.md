@@ -1,5 +1,5 @@
 # PWeb_Tugas2
-Tugas 2 Pemrograman Web 2023
+Tugas 2 Pemrograman Web 2023  
 Membuat Laman Web CV dengan HTML dan CSS
 
 > Nama: Akmal Sulthon Fathulloh  
